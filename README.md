@@ -8,7 +8,7 @@ It showcases my layout design, styling, and responsive web design skills.
 - CSS3
 
 ## 📸 Project Preview
-![Portfolio Screenshot](portfolio.png)
+![Portfolio Screenshot](Screenshot 2026-01-16 175528.png)
 
 
 ## 📂 Features
